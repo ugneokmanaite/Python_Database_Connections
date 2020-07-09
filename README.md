@@ -1,3 +1,5 @@
+[x] **Establishing database connection **
+
 1. Establishing database connection
 - first we need to install pyodbc = DONE
 
