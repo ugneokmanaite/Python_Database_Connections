@@ -1,6 +1,7 @@
-- [x] **Establishing database connection **
+- [x] **Establishing database connection**
 
-1. Establishing database connection
+- [x] ** **
+
 - first we need to install pyodbc = DONE
 
 - db server connection variables from database_OOP import database_OOP
@@ -18,3 +19,13 @@
 Just a python library which helps you to connect to database
 
 why are we installing it? It helps us showcase data in the console which in real time we would display on the front end
+
+Open Database Connectivity(ODBC)
+- Interface by Microsoft application which allows applications to access data in database management systems using SQL as a standard for accessing the data
+
+**CURSOR**
+
+- control structure
+- allowing us to control and manage rows of data from a response
+- pointing to and managing the row
+
